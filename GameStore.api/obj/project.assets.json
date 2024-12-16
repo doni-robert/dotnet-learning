@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\robert.muriu\\.nuget\\packages\\": {}
+    "/home/robert/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robert.muriu\\Documents\\Projects\\dotnet-learning\\GameStore.api\\GameStore.api.csproj",
+      "projectUniqueName": "/home/robert/Current/dotnet-learning/GameStore.api/GameStore.api.csproj",
       "projectName": "GameStore.api",
-      "projectPath": "C:\\Users\\robert.muriu\\Documents\\Projects\\dotnet-learning\\GameStore.api\\GameStore.api.csproj",
-      "packagesPath": "C:\\Users\\robert.muriu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robert.muriu\\Documents\\Projects\\dotnet-learning\\GameStore.api\\obj\\",
+      "projectPath": "/home/robert/Current/dotnet-learning/GameStore.api/GameStore.api.csproj",
+      "packagesPath": "/home/robert/.nuget/packages/",
+      "outputPath": "/home/robert/Current/dotnet-learning/GameStore.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\robert.muriu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/robert/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
