@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "79HYofVil53Y4YpRcKSr2tYjdfZ8Qckt7ljPcC9AbRCrfFmE5gxdIo9owKYtILs58z6vE+HPmRBaLfeT8TudMw==",
+  "dgSpecHash": "7krJzVWMcDy7TM6jC4rqfGzyuRfbAppW+LxZDutJrLFTjCJOXn/JI34HCi/pylYig/g3EaY5rPZ7B32VWjpidA==",
   "success": true,
   "projectFilePath": "C:\\Users\\robert.muriu\\Documents\\Projects\\dotnet-learning\\GameStore.api\\GameStore.api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\robert.muriu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\robert.muriu\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\robert.muriu\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

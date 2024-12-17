@@ -9,18 +9,17 @@ POST http://localhost:5213/games
 Content-Type: application/json
 
 {
-    "name": "MineCraft",
+    "name": "",
     "genre": "Kids and Family",
     "price": 19.99,
     "releaseDate": "2011-11-18"
 }
 
 ###
-PUT http://localhost:5213/games/1
+PUT http://localhost:5213/games/2
 Content-Type: application/json
 
 {
-    "name": "Not MineCraft",
     "genre": "Adults",
     "price": 19.99,
     "releaseDate": "2011-11-18"
