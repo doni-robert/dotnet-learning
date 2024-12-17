@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atUCWHJ+D/yPdFptx4uCNxTh2CoBLODntNdwP4+/YJNk1K4VZ7PhKcNWSa4o6IdXk7rzJW18XUhE9lKSQIfZ3Q==",
+  "dgSpecHash": "79HYofVil53Y4YpRcKSr2tYjdfZ8Qckt7ljPcC9AbRCrfFmE5gxdIo9owKYtILs58z6vE+HPmRBaLfeT8TudMw==",
   "success": true,
-  "projectFilePath": "/home/robert/Current/dotnet-learning/GameStore.api/GameStore.api.csproj",
+  "projectFilePath": "C:\\Users\\robert.muriu\\Documents\\Projects\\dotnet-learning\\GameStore.api\\GameStore.api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
