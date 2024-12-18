@@ -9,10 +9,10 @@ POST http://localhost:5213/games
 Content-Type: application/json
 
 {
-    "name": "Fifa",
-    "genreId": 1,
-    "price": 99.99,
-    "releaseDate": "2019-01-18"
+    "name": "The Witcher 3: Wild Hunt",
+    "genreId": 3,
+    "price": 29.99,
+    "releaseDate": "2015-05-19"
 }
 
 ###
