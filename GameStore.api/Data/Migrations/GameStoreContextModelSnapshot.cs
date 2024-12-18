@@ -54,7 +54,7 @@ namespace GameStore.api.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Genre");
+                    b.ToTable("Genres");
                 });
 
             modelBuilder.Entity("GameStore.api.Entities.Game", b =>

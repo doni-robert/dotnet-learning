@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GameStore.api.Data.Migrations
 {
     [DbContext(typeof(GameStoreContext))]
-    [Migration("20241217130752_InitialCreate")]
+    [Migration("20241218063542_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -57,7 +57,7 @@ namespace GameStore.api.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Genre");
+                    b.ToTable("Genres");
                 });
 
             modelBuilder.Entity("GameStore.api.Entities.Game", b =>
