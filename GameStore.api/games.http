@@ -9,10 +9,10 @@ POST http://localhost:5213/games
 Content-Type: application/json
 
 {
-    "name": "",
-    "genre": "Kids and Family",
-    "price": 19.99,
-    "releaseDate": "2011-11-18"
+    "name": "Fifa",
+    "genreId": 1,
+    "price": 99.99,
+    "releaseDate": "2019-01-18"
 }
 
 ###
