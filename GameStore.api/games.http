@@ -1,7 +1,7 @@
 GET http://localhost:5213/games
 
 ###
-GET http://localhost:5213/games/1
+GET http://localhost:5213/games/3
 
 
 ###
@@ -16,14 +16,16 @@ Content-Type: application/json
 }
 
 ###
-PUT http://localhost:5213/games/2
+PUT http://localhost:5213/games/3
 Content-Type: application/json
 
 {
-    "genre": "Adults",
-    "price": 19.99,
-    "releaseDate": "2011-11-18"
+  "name": "The Witcher 3: Wild Hunt",
+  "genreId": 3,
+  "price": 70.50,
+  "releaseDate": "2015-05-19"
 }
 
+
 ###
-DELETE http://localhost:5213/games/1
+DELETE http://localhost:5213/games/2
