@@ -1,0 +1,3 @@
+[submodule "GameStoreAPI"]
+	path = GameStoreAPI
+	url = https://github.com/doni-robert/GameStoreAPI.git
